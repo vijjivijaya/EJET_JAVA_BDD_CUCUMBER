@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="C:/Users/Admin/IdeaProjects/EJET_AUTOMATION_CUCUMBER">
+                <classes>
+                    <class name="testRunners.TestRunner_Webinar_Registration" />
+                </classes>
+    </test>
+</suite>
